@@ -1,4 +1,5 @@
 import random
+##curso py basico Alura
 
 print("*********************************")
 print("Bem vindo ao jogo de Adivinhação!")
